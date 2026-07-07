@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/knishka22k/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/knishka22k/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/knishka22k/Leetcode-Problems/tree/master/0622-design-circular-queue) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
