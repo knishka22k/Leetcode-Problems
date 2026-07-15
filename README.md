@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0622-design-circular-queue](https://github.com/knishka22k/Leetcode-Problems/tree/master/0622-design-circular-queue) |
+| [0646-maximum-length-of-pair-chain](https://github.com/knishka22k/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1288-remove-covered-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/knishka22k/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/knishka22k/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1288-remove-covered-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/knishka22k/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1301-number-of-paths-with-max-score](https://github.com/knishka22k/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/knishka22k/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/knishka22k/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
