@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0622-design-circular-queue](https://github.com/knishka22k/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/knishka22k/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [1260-shift-2d-grid](https://github.com/knishka22k/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/knishka22k/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/knishka22k/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/knishka22k/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/knishka22k/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/knishka22k/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/knishka22k/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/knishka22k/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
