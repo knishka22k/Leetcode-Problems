@@ -1,5 +1,8 @@
+import java.util.*;
+
 class Solution {
     public int uniqueXorTriplets(int[] nums) {
+        
         int n = nums.length;
 
         if (n == 1) {
