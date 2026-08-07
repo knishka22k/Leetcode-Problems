@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/knishka22k/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/knishka22k/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/knishka22k/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/knishka22k/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
