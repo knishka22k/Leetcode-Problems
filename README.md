@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/knishka22k/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/knishka22k/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/knishka22k/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/knishka22k/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/knishka22k/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/knishka22k/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/knishka22k/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/knishka22k/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/knishka22k/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/knishka22k/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/knishka22k/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/knishka22k/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/knishka22k/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
