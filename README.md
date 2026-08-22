@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/knishka22k/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/knishka22k/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/knishka22k/Leetcode-Problems/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/knishka22k/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/knishka22k/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0583-delete-operation-for-two-strings](https://github.com/knishka22k/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/knishka22k/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/knishka22k/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/knishka22k/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/knishka22k/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/knishka22k/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/knishka22k/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/knishka22k/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/knishka22k/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/knishka22k/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/knishka22k/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/knishka22k/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/knishka22k/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/knishka22k/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Enumeration
