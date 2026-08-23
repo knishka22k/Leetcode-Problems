@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/knishka22k/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/knishka22k/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/knishka22k/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0435-non-overlapping-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0622-design-circular-queue](https://github.com/knishka22k/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/knishka22k/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0307-range-sum-query-mutable](https://github.com/knishka22k/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/knishka22k/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/knishka22k/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0307-range-sum-query-mutable](https://github.com/knishka22k/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0622-design-circular-queue](https://github.com/knishka22k/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/knishka22k/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1472-design-browser-history](https://github.com/knishka22k/Leetcode-Problems/tree/master/1472-design-browser-history) |
@@ -351,4 +354,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/knishka22k/Leetcode-Problems/tree/master/0175-combine-two-tables) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/knishka22k/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/knishka22k/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/knishka22k/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
