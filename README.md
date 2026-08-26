@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/knishka22k/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0198-house-robber](https://github.com/knishka22k/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/knishka22k/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/knishka22k/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/knishka22k/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/knishka22k/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/knishka22k/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/knishka22k/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0198-house-robber](https://github.com/knishka22k/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/knishka22k/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/knishka22k/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
