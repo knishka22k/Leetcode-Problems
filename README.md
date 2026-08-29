@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/knishka22k/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/knishka22k/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/knishka22k/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0705-design-hashset](https://github.com/knishka22k/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/knishka22k/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/knishka22k/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/knishka22k/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/knishka22k/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
