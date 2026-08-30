@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/knishka22k/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/knishka22k/Leetcode-Problems/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/knishka22k/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/knishka22k/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/knishka22k/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/knishka22k/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/knishka22k/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/knishka22k/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/knishka22k/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
@@ -410,4 +414,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
