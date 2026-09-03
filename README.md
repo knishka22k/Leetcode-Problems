@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/knishka22k/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/knishka22k/Leetcode-Problems/tree/master/1472-design-browser-history) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
