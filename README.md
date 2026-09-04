@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/knishka22k/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/knishka22k/Leetcode-Problems/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/knishka22k/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/knishka22k/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/knishka22k/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/knishka22k/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/knishka22k/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/knishka22k/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/knishka22k/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/knishka22k/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/knishka22k/Leetcode-Problems/tree/master/0204-count-primes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/knishka22k/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/knishka22k/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/knishka22k/Leetcode-Problems/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Brainteaser
@@ -430,4 +434,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/knishka22k/Leetcode-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/knishka22k/Leetcode-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/knishka22k/Leetcode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
