@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/knishka22k/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/knishka22k/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/knishka22k/Leetcode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/knishka22k/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/knishka22k/Leetcode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/knishka22k/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -453,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/knishka22k/Leetcode-Problems/tree/master/0204-count-primes) |
+## Counting
+|  |
+| ------- |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/knishka22k/Leetcode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 <!---LeetCode Topics End-->
