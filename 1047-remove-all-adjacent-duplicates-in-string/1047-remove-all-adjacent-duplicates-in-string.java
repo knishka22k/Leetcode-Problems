@@ -12,6 +12,6 @@ class Solution {
             for(char ch : stack){
                 ans.append(ch);
             }
-            return ans.toString();
+            // return ans.toString();
         }
     }
