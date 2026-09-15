@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/knishka22k/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/knishka22k/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/knishka22k/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/knishka22k/Leetcode-Problems/tree/master/0072-edit-distance) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/knishka22k/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0142-linked-list-cycle-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/knishka22k/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0705-design-hashset](https://github.com/knishka22k/Leetcode-Problems/tree/master/0705-design-hashset) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/knishka22k/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/knishka22k/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/knishka22k/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/knishka22k/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
