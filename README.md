@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/knishka22k/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/knishka22k/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/knishka22k/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/knishka22k/Leetcode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/knishka22k/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/knishka22k/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/knishka22k/Leetcode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/knishka22k/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/knishka22k/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/knishka22k/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/knishka22k/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1903-largest-odd-number-in-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
