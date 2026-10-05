@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/knishka22k/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0583-delete-operation-for-two-strings](https://github.com/knishka22k/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0856-score-of-parentheses](https://github.com/knishka22k/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/knishka22k/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/knishka22k/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/knishka22k/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/knishka22k/Leetcode-Problems/tree/master/0402-remove-k-digits) |
+| [0856-score-of-parentheses](https://github.com/knishka22k/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/knishka22k/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/knishka22k/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/knishka22k/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/knishka22k/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/knishka22k/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/knishka22k/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/knishka22k/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/knishka22k/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
