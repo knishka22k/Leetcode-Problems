@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/knishka22k/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2396-strictly-palindromic-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/knishka22k/Leetcode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/knishka22k/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/knishka22k/Leetcode-Problems/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
