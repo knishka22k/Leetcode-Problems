@@ -6,7 +6,7 @@ class Solution {
 
         for (char c : s.toCharArray()) {
             if (c == '(') {
-                if (depth++ > 0) {
+                if (depth++ > 0) { 
                     newS.append(c);
                 }
             } else {
