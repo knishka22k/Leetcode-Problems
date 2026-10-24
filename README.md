@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/knishka22k/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/knishka22k/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/knishka22k/Leetcode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/knishka22k/Leetcode-Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/knishka22k/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/knishka22k/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/knishka22k/Leetcode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/knishka22k/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
