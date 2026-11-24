@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/knishka22k/Leetcode-Problems/tree/master/1472-design-browser-history) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/knishka22k/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2747-count-zero-request-servers](https://github.com/knishka22k/Leetcode-Problems/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/knishka22k/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/knishka22k/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/knishka22k/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/knishka22k/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/knishka22k/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/knishka22k/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/knishka22k/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/knishka22k/Leetcode-Problems/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/knishka22k/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/knishka22k/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/knishka22k/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -599,4 +602,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/knishka22k/Leetcode-Problems/tree/master/0877-stone-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
