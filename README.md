@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/knishka22k/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/knishka22k/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/knishka22k/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/knishka22k/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/knishka22k/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/knishka22k/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/knishka22k/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/knishka22k/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/knishka22k/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/knishka22k/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/knishka22k/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/knishka22k/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
