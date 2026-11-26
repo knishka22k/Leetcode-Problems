@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/knishka22k/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/knishka22k/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0059-spiral-matrix-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/knishka22k/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/knishka22k/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/knishka22k/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/knishka22k/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/knishka22k/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2390-removing-stars-from-a-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
