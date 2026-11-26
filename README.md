@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/knishka22k/Leetcode-Problems/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/knishka22k/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/knishka22k/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/knishka22k/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/knishka22k/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/knishka22k/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/knishka22k/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2390-removing-stars-from-a-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/knishka22k/Leetcode-Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3360-stone-removal-game](https://github.com/knishka22k/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/knishka22k/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search Tree
 |  |
