@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/knishka22k/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/knishka22k/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/knishka22k/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/knishka22k/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/knishka22k/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/knishka22k/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/knishka22k/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/knishka22k/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0307-range-sum-query-mutable](https://github.com/knishka22k/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/knishka22k/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/knishka22k/Leetcode-Problems/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/knishka22k/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/knishka22k/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/knishka22k/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/knishka22k/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
